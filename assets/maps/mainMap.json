@@ -44,7 +44,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/..\/..\/..\/..\/projects\/pokeblaster\/pokeblaster-game\/public\/images\/tileset-main.png",
+         "image":"./img/tileset-main.png",
          "imageheight":15971,
          "imagewidth":128,
          "margin":0,
