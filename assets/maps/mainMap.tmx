@@ -967,6 +967,9 @@
   </tile>
   <tile id="3045" type="grass"/>
  </tileset>
+ <tileset firstgid="7985" name="tileset-main" tilewidth="16" tileheight="16" tilecount="7984" columns="8" objectalignment="topleft">
+  <image source="../../../../../projects/pokeblaster/pokeblaster-game/public/images/tileset-main.png" trans="ff00ff" width="128" height="15971"/>
+ </tileset>
  <layer id="6" name="bottom" width="100" height="100">
   <data encoding="csv">
 1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
